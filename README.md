@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif](https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023))]
+[![MasterHead](https://media.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif)]
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">I'm an Engineering student and learning new stuffs 💯</h3>
 <img align="right" alt="Coding" width="400" src="https://ih1.redbubble.net/image.1943002440.4467/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg">
