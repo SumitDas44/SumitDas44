@@ -38,17 +38,17 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumitDas44&show_icons=true&theme=tokyonight)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SumitDas44&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SumitDas44&theme=tokyonight)
 
-[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SumitDas44&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SumitDas44&theme=tokyo-night)
 
   
-[![More Details](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitDas44)](https://github.com/anuraghazra/github-readme-stats)
+![More Details](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitDas44)
 
 ![More Details](https://metrics.lecoq.io/SumitDas44)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SumitDas44&repo=TeliGari-BaZaar)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SumitDas44&repo=css-responsive-assignment2)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SumitDas44&repo=TeliGari-BaZaar)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SumitDas44&repo=css-responsive-assignment2)
 
 ![Profile views](https://komarev.com/ghpvc/?username=SumitDas44&color=blue&style=flat-square)
