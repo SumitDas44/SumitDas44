@@ -2,8 +2,11 @@
 <h3 align="center">I'm an Engineering student and learning new stuffs 💯</h3>
 <img align="right" alt="Coding" width="400" src="https://ih1.redbubble.net/image.1943002440.4467/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg">
 
-<p align="left"> <a href="https://twitter.com/_su_mit_77" target="blank"><img src="https://img.shields.io/twitter/follow/_su_mit_77?logo=twitter&style=for-the-badge" alt="_su_mit_77" /></a> </p>
-<p align="left"> <a href="https://twitter.com/_su_mit_77" target="blank"><img src="https://img.shields.io/twitter/follow/_su_mit_77?logo=twitter&style=for-the-badge" alt="_su_mit_77" /></a> </p>
+<p align="left"> 
+<a href="https://twitter.com/_su_mit_77" target="blank"><img src="https://img.shields.io/twitter/follow/_su_mit_77?logo=twitter&style=for-the-badge" alt="_su_mit_77" /></a> 
+<a href="https://twitter.com/_su_mit_77" target="blank"><img src="https://img.shields.io/twitter/follow/_su_mit_77?logo=twitter&style=for-the-badge" alt="_su_mit_77" /></a> 
+</p>
+
 
 - 🌱 I’m currently learning **Python & Machine learning**
 
