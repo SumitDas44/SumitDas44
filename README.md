@@ -34,7 +34,7 @@
 
 #
 
-<p><img align="right" alt="Coding" width="350" src="https://ih1.redbubble.net/image.1943002440.4467/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg"></p>
+<p><img align="right" alt="Coding" width="330" src="https://ih1.redbubble.net/image.1943002440.4467/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg"></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumitDas44&show_icons=true&theme=tokyonight)  
 
