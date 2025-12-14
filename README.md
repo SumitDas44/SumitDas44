@@ -8,7 +8,7 @@
 <a href="https://instagram.com/su._.mit_____" target="blank"><img src="https://img.shields.io/badge/Follow-Sumit_Das-pink?logo=instagram&style=for-the-badge" alt="su._.mit_____" /></a>
 </p>
 
-- 🌱 I’m currently learning **Python & Machine learning**
+- 🌱 I’m currently learning **GenAi & CyberSecurity**
 
 - 📫 How to reach me **sumit.sd123471@gmail.com**
 
