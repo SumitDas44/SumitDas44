@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <span>Sumit</span></h1>
-<h3 align="center">I'm an Engineering student and learning new stuffs 💯</h3>
+<h1 align="center">Hi 👋 I'm <span>Sumit</span></h1>
+<h3 align="center">I'm an Engineering Graduate and learning new stuffs 💯</h3>
 
 <p align="center"> 
 <a href="https://twitter.com/_su_mit_77" target="blank"><img src="https://img.shields.io/badge/Follow-__su__mit__77-blue?logo=twitter&style=for-the-badge" alt="_su_mit_77" /></a>
@@ -8,7 +8,7 @@
 <a href="https://instagram.com/su._.mit_____" target="blank"><img src="https://img.shields.io/badge/Follow-Sumit_Das-pink?logo=instagram&style=for-the-badge" alt="su._.mit_____" /></a>
 </p>
 
-- 🌱 I’m currently learning **GenAi & CyberSecurity**
+- 🌱 I’m currently learning **Large Language Models**
 
 - 📫 How to reach me **sumit.sd123471@gmail.com**
 
