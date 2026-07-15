@@ -48,10 +48,10 @@
   
 <!-- ![More Details](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitDas44) -->
 
-![More Details](https://metrics.lecoq.io/SumitDas44)
+<!--![More Details](https://metrics.lecoq.io/SumitDas44)
 
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SumitDas44&repo=TeliGari-BaZaar)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SumitDas44&repo=css-responsive-assignment2)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SumitDas44&repo=css-responsive-assignment2) -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=SumitDas44&color=blue&style=flat-square)
