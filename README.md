@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **sumit.sd123471@gmail.com**
 
+- 🔬 Research: WSN, ML/AI, CV, IoT
+
 - ⚡ Fun fact **I'm Lazy**
 
 ---
