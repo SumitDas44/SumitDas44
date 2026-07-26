@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sumit.sd123471@gmail.com**
 
-- 🔬 Research: WSN, ML/AI, CV, IoT
+- 🔬 Research: Ad-hoc Networks, WSN, ML/AI, CV, IoT, LLM
 
 - ⚡ Fun fact **I'm Lazy**
 
