@@ -8,13 +8,13 @@
 <a href="https://instagram.com/su._.mit_____" target="blank"><img src="https://img.shields.io/badge/Follow-Sumit_Das-pink?logo=instagram&style=for-the-badge" alt="su._.mit_____" /></a>
 </p>
 
-- 🌱 I’m currently learning **Large Language Models**
+- 🌱 I’m currently learning **LLMs** & **RAG**
 
 - 📫 How to reach me **sumit.sd123471@gmail.com**
 
 - 🔬 Research: Ad-hoc Networks, WSN, ML/AI, CV, IoT, LLM
 
-- ⚡ Fun fact **I'm Lazy**
+- ⚡ Fun fact **I'm Lazy** ![BORT](https://git.io/BORT)
 
 ---
 
@@ -63,14 +63,21 @@
 
 #
 
-<p><img align="right" alt="Coding" width="330" src="https://ih1.redbubble.net/image.1943002440.4467/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg"></p>
+<p> 
+<!--<img align="right" alt="Coding" width="315" src="https://ih1.redbubble.net/image.1943002440.4467/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg">
+<img align="right" alt="Coding" width="315" src="https://ih1.redbubble.net/image.1943002440.4467/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg"> -->
+<img align="right" alt="Coding" width="315" src="https://ih1.redbubble.net/image.1943002440.4467/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg">
+</p>
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumitDas44&show_icons=true&theme=tokyonight) -->
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SumitDas44&theme=tokyonight)
+<br clear="both"/>
+<br>
 
 ![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SumitDas44&theme=tokyo-night)
 
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumitDas44&show_icons=true&theme=tokyonight) -->
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=SumitDas44&theme=tokyonight) -->
   
 <!-- ![More Details](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitDas44) -->
 
