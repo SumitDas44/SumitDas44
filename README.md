@@ -66,7 +66,11 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer">
 <img align="right" alt="Coding" width="250" src="./assets/img02.png">
+  </a>
+  <a href="https://youtu.be/0GnA8VYOfko?si=5kQKHZR3Rnr5tBaS&t=14Q" target="_blank" rel="noreferrer">
 <img align="right" alt="Coding" width="250" src="./assets/img01.png">
+  </a>
+  <a href="https://youtu.be/bjnFXgdyyLw?si=nwq2d_PNebjrYAsq" target="_blank" rel="noreferrer">
 <img align="right" alt="Coding" width="250" src="https://ih1.redbubble.net/image.1943002440.4467/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg">
   </a>
 </p>
