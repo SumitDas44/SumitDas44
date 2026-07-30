@@ -64,8 +64,8 @@
 #
 
 <p> 
-<img align="right" alt="Coding" width="315" src="./assets/img02.png">
-<img align="right" alt="Coding" width="315" src="./assets/img01.png">
+<img align="right" alt="Coding" width="300" src="./assets/img02.png">
+<img align="right" alt="Coding" width="300" src="./assets/img01.png">
 <img align="right" alt="Coding" width="315" src="https://ih1.redbubble.net/image.1943002440.4467/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg">
 </p>
 
